@@ -29,3 +29,9 @@ I think a list of useful assets would be helpful for those wanting to contribute
     * Boxes
     * Backgrounds (+ stands)
 * Models
+
+
+## Format
+For maximum compatibility and scalability create the components as scalable vector graphics (SVG) in [Inkscape][]. This will let all users scale them as needed for their output.
+
+[Inkscape]: https://inskscape.org
