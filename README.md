@@ -30,6 +30,7 @@ I think a list of useful assets would be helpful for those wanting to contribute
     * Backgrounds (+ stands)
 * Models
 
+![Test](https://raw.githubusercontent.com/pixlsus/pixls-lighting-diagram/master/combined.svg)
 
 ## Format
 For maximum compatibility and scalability create the components as scalable vector graphics (SVG) in [Inkscape][]. This will let all users scale them as needed for their output.
