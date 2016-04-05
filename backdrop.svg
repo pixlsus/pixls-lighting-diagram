@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="208.82581"
-     inkscape:cy="982.38472"
+     inkscape:zoom="1.979899"
+     inkscape:cx="380.93324"
+     inkscape:cy="914.16775"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,13 +80,13 @@
        sodipodi:cx="54.642857"
        sodipodi:cy="67.719345"
        sodipodi:r1="55.68795"
-       sodipodi:r2="3.9316583"
+       sodipodi:r2="3.3969648"
        sodipodi:arg1="-1.0471976"
        sodipodi:arg2="-4.8803402e-008"
        inkscape:flatsided="false"
-       inkscape:rounded="5.3082538e-016"
+       inkscape:rounded="0.07"
        inkscape:randomized="0"
-       d="M 82.486829,19.492164 58.574515,67.719345 82.486834,115.94652 52.677028,71.124261 -1.0450935,67.719348 52.677027,64.314429 Z"
+       d="m 82.486829,19.492164 c 3.277793,1.892435 -24.447008,44.442312 -24.447008,48.227181 10e-7,3.784869 27.724806,46.334745 24.447013,48.227175 -3.277793,1.89244 -26.264667,-43.392883 -29.54246,-45.285317 -3.277793,-1.892434 -53.9894674,0.843014 -53.9894675,-2.941855 -2e-7,-3.784869 50.7116745,-1.049426 53.9894675,-2.941861 3.277793,-1.892434 26.264662,-47.177757 29.542455,-45.285323 z"
        inkscape:transform-center-x="-2.7127746"
        transform="matrix(0.8660254,0.5,-0.5,0.8660254,42.546472,-16.325391)"
        inkscape:transform-center-y="15.48821" />
@@ -94,13 +94,13 @@
        inkscape:transform-center-y="15.48821"
        transform="matrix(0.8660254,0.5,-0.5,0.8660254,505.40362,-16.325391)"
        inkscape:transform-center-x="-2.7127746"
-       d="M 82.486829,19.492164 58.574515,67.719345 82.486834,115.94652 52.677028,71.124261 -1.0450935,67.719348 52.677027,64.314429 Z"
+       d="m 82.486829,19.492164 c 3.277793,1.892435 -24.447008,44.442312 -24.447008,48.227181 10e-7,3.784869 27.724806,46.334745 24.447013,48.227175 -3.277793,1.89244 -26.264667,-43.392883 -29.54246,-45.285317 -3.277793,-1.892434 -53.9894674,0.843014 -53.9894675,-2.941855 -2e-7,-3.784869 50.7116745,-1.049426 53.9894675,-2.941861 3.277793,-1.892434 26.264662,-47.177757 29.542455,-45.285323 z"
        inkscape:randomized="0"
-       inkscape:rounded="5.3082538e-016"
+       inkscape:rounded="0.07"
        inkscape:flatsided="false"
        sodipodi:arg2="-4.8803402e-008"
        sodipodi:arg1="-1.0471976"
-       sodipodi:r2="3.9316583"
+       sodipodi:r2="3.3969648"
        sodipodi:r1="55.68795"
        sodipodi:cy="67.719345"
        sodipodi:cx="54.642857"
