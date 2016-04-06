@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,5 +100,11 @@
          d="M 6.2363462,168.35867 C 6.1223654,148.57522 6.0714509,103.2054 6.1232029,67.536845 l 0.094094,-64.8519204 7.1082406,8.5319424 7.10824,8.531943 0.192965,76.186199 c 0.10613,41.902411 0.277965,80.302801 0.381856,85.334201 0.154977,7.50554 0.118031,9.1042 -0.205777,8.90408 -0.276449,-0.17086 -2.486127,1.91264 -7.376952,6.95568 l -6.9822859,7.1996 -0.2072379,-35.9699 z"
          style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
     </g>
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1.4511053,172.64796 C 1.3410734,154.6442 1.2509786,108.65841 1.2508947,70.457327 l -1.525e-4,-69.4565225 1.6059226,0 1.6059227,0 0.2000974,26.2370715 C 4.7727384,41.668265 4.8627823,87.654051 4.8627823,129.42851 l 0,75.95357 -1.6058095,0 -1.6058096,0 -0.2000579,-32.73412 z"
+       id="path4270"
+       inkscape:connector-curvature="0"
+       transform="translate(312.95916,334.27714)" />
   </g>
 </svg>
