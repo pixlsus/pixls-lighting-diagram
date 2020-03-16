@@ -5,9 +5,10 @@ There are no Free/Libre resources for creating photographic lighting diagrams av
 
 This was prompted by community member Eric Mesa.
 
-## Assets
+Would you like to contribute? See [Contributing.md]: https://github.com/djotaku/pixls-lighting-diagram/blob/master/CONTRIBUTING.md
 
-### Download
+## Assets Downloading
+
 If you just want to grab the shapes to build your own lighting diagrams, you can just grab the [combined.svg][] file (Right-click, Save link as...).  It _should_ contain all of the assets.
 
 [combined.svg]: https://raw.githubusercontent.com/pixlsus/pixls-lighting-diagram/master/combined.svg
