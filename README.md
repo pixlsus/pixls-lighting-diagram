@@ -7,7 +7,7 @@ There were no Free/Libre resources for creating photographic lighting diagrams a
 
 This was prompted by community member Eric Mesa.
 
-Would you like to contribute? See [Contributing.md]: https://github.com/djotaku/pixls-lighting-diagram/blob/master/CONTRIBUTING.md
+Would you like to contribute? See [Contributing.md](https://github.com/djotaku/pixls-lighting-diagram/blob/master/CONTRIBUTING.md)
 
 ## Assets Downloading
 
