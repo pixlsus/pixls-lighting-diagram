@@ -13,4 +13,4 @@ For maximum compatibility and scalability create the components as scalable vect
 
 [Inkscape]: https://inskscape.org
 
-Please put each unique asset in it's own svg file.  This should facilitate drag-and-drop into Inkscape for inclusion quickly and easily.
+Please put each unique asset in its own svg file.  This should facilitate drag-and-drop into Inkscape for inclusion quickly and easily.
