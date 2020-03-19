@@ -1,8 +1,5 @@
 # Assets needed
 
-- Strobes
-    - Speedlight
-    - Monolight
 - Light Modifiers
     - Brolly
 
